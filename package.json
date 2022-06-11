@@ -6,6 +6,10 @@
     "repository": {
         "url": "https://github.com/BeardedBry/js-image-gallery"
     },
+    "author": {
+        "name": "Brian Burkard",
+        "email": "brianburkard@gmail.com"
+    },
     "main": "index.js",
     "keywords": [
         "images",
@@ -14,5 +18,12 @@
         "small",
         "vanilla",
         "photo"
-    ]
+    ],
+    "scripts": {
+        "build": "npx tsc",
+        "watch": "npx tsc -w"
+    },
+    "devDependencies": {
+        "typescript": "^4.7.3"
+    }
 }
