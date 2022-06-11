@@ -1,9 +1,18 @@
 {
     "name": "js-image-gallery",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A barebones image gallery.",
     "license": "GPL-3.0",
-    "repository": {"url": "https://github.com/BeardedBry/js-image-gallery"},
+    "repository": {
+        "url": "https://github.com/BeardedBry/js-image-gallery"
+    },
     "main": "index.js",
-    "keywords": ["images", "modal", "gallery", "small", "vanilla", "photo"]
+    "keywords": [
+        "images",
+        "modal",
+        "gallery",
+        "small",
+        "vanilla",
+        "photo"
+    ]
 }
